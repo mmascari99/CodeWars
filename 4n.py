@@ -1,3 +1,4 @@
+#solution to https://codeforces.com/contest/1353/problem/C
 cases = int(input())
 while cases > 0:
     sum = 0
